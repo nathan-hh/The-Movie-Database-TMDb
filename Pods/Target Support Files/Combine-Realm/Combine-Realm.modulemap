@@ -1,0 +1,6 @@
+framework module Combine_Realm {
+  umbrella header "Combine-Realm-umbrella.h"
+
+  export *
+  module * { export * }
+}

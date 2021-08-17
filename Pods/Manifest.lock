@@ -1,0 +1,39 @@
+PODS:
+  - Combine-Realm (2.0.0):
+    - RealmSwift (~> 5.0.0)
+  - CombineCocoa (0.3.0)
+  - CombineDataSources (0.2.5)
+  - Realm (5.0.3):
+    - Realm/Headers (= 5.0.3)
+  - Realm/Headers (5.0.3)
+  - RealmSwift (5.0.3):
+    - Realm (= 5.0.3)
+  - SwiftyMediaGallery (0.1.1):
+    - CombineDataSources
+
+DEPENDENCIES:
+  - Combine-Realm
+  - CombineCocoa
+  - RealmSwift
+  - SwiftyMediaGallery
+
+SPEC REPOS:
+  trunk:
+    - Combine-Realm
+    - CombineCocoa
+    - CombineDataSources
+    - Realm
+    - RealmSwift
+    - SwiftyMediaGallery
+
+SPEC CHECKSUMS:
+  Combine-Realm: a23fa83828f449a47632a371db65d946003bb4fd
+  CombineCocoa: f9d1b5b786156e25357a2cc394449b279b5afc09
+  CombineDataSources: dcbc3b06a038ffdf620b3b4533d3ecaf76ca6a2e
+  Realm: bfca1699b61b0b17c3a69ae0e648314eae91fbdb
+  RealmSwift: 493c9f089cd3893b3959007973c0e4f640906ba0
+  SwiftyMediaGallery: c04227bca735e1b6fcbb996385b4b8ea91954bd1
+
+PODFILE CHECKSUM: e893aa53d692fd0dcbeb7e2554f2be44b9741b3b
+
+COCOAPODS: 1.10.1

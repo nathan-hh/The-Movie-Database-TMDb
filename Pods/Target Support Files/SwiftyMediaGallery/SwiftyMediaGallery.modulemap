@@ -1,0 +1,6 @@
+framework module SwiftyMediaGallery {
+  umbrella header "SwiftyMediaGallery-umbrella.h"
+
+  export *
+  module * { export * }
+}

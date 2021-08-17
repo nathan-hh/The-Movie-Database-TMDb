@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-TMDb-Example/Pods-TMDb-Example-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Combine-Realm/Combine_Realm.framework
+${BUILT_PRODUCTS_DIR}/CombineCocoa/CombineCocoa.framework
+${BUILT_PRODUCTS_DIR}/CombineDataSources/CombineDataSources.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftyMediaGallery/SwiftyMediaGallery.framework
